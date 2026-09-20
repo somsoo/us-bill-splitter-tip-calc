@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-bill-splitter-tip-calc.enjoy-onepage.com/sitemap.xml
